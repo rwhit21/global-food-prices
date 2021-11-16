@@ -9,3 +9,5 @@ https://www.kaggle.com/lasaljaywardena/global-food-prices-starter/notebook
 
 Original dataset is located here:
 https://www.kaggle.com/lasaljaywardena/global-food-prices-dataset
+
+The github data file only includes 2 of the countries from the original dataset, becuase the original file was too big to upload to github. 
